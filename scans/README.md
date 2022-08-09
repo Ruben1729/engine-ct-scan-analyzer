@@ -1,0 +1,1 @@
+This folder should only be used to store the saved scans.
